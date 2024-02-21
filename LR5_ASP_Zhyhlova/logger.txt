@@ -1,0 +1,28 @@
+Now listening on: https://localhost:7266
+Now listening on: http://localhost:5247
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\katyl\source\repos\LR5_ASP_Zhyhlova\LR5_ASP_Zhyhlova
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+Now listening on: https://localhost:7266
+Now listening on: http://localhost:5247
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\katyl\source\repos\LR5_ASP_Zhyhlova\LR5_ASP_Zhyhlova
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+Now listening on: https://localhost:7266
+Now listening on: http://localhost:5247
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\katyl\source\repos\LR5_ASP_Zhyhlova\LR5_ASP_Zhyhlova
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
